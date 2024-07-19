@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notebook for work/"}
+{"dg-publish":true,"permalink":"/Notebook for work/","dgPassFrontmatter":true,"created":"2024-07-11T20:57:00.333+08:00","updated":"2024-07-19T15:03:20.434+08:00"}
 ---
 
 电脑诊断活动：
@@ -12,4 +12,3 @@
 **走进大蒜交易市场，寻觅经济蓬勃生机。** 在杞县团委、郑州大学领导的带领下，实践团成员一同前往杞县大蒜交易市场进行参观交流。交易市场负责人就杞县大蒜销售情况、交易市场运营模式、农产品种类等问题进行讲解，并对交易市场信息化、交易过程便捷化等问题进行深入探讨。郑州大学校团委副书记张书记就青年扎根基层、助力乡村振兴提出许多建设性意见，以郑州大学历年优秀青年的案例鼓舞了实践团成员。
 
 ![image.png](https://anyulin-1327793486.cos.ap-beijing.myqcloud.com/20240719144625.png)
-/digtal
