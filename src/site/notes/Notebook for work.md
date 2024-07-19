@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Notebook for work/","dgPassFrontmatter":true,"created":"2024-07-11T20:57:00.333+08:00","updated":"2024-07-19T15:03:20.434+08:00"}
+{"dg-publish":true,"permalink":"/Notebook for work/","dgPassFrontmatter":true,"created":"2024-07-11T20:57:00.333+08:00","updated":"2024-07-19T15:23:52.081+08:00"}
 ---
+
+
 
 电脑诊断活动：
 为新生提供电脑使用基本教程，包括杀毒软件、浏览器等相关基本软件的使用与安装，分盘，以及计算机专业基础软件安装服务（VS、VS code、Python）等
